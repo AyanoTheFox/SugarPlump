@@ -4,7 +4,6 @@
 # features
 - open close delete and rename projects
 - setdefault projects dir
-- powerful
 - easy to use
 
 # libs credits
